@@ -1,0 +1,40 @@
+.iconSector {
+  border: 1px solid white;
+}
+.sectorHead {
+    display: flex;
+    padding: 0 .5em;
+}
+
+.sectorBody{
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+.sectorInfo {
+  padding: .5em;
+  background-color: rgb(20,21,23);
+  margin: .5em;
+}
+.sectorsDataContainer {
+  column-count: 2
+}
+.sector {
+  margin: 1em 1em 2.1em 1em;
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+
+}
+.head {
+  flex:1;
+}
+i.fa.fa-chart-pie {
+  padding: 0em .5em;
+  color:rgb(180, 9, 51)
+}
+.industries {
+  color: rgb(137,137,137);
+  font-size: 14px;
+}

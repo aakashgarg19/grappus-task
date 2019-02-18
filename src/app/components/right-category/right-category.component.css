@@ -1,0 +1,42 @@
+.headContainer {
+  display: flex;
+  align-items: center;
+}
+.iconContainer {
+  padding: .5em;
+  background-color: rgba(231, 46, 22, .5);
+}
+
+.iconContainer > i {
+  color: rgb(181, 10, 52);
+  font-size: 23px;
+}
+
+.container {
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+.heading {
+  margin-left: 1em;
+}
+
+.body {
+  margin-top: 1em;
+}
+
+input {
+  background-color: transparent;
+  padding: 7px 1em;
+  border: 1px solid rgb(15, 15, 15);
+  width: 80%;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.whiteIcon {
+  margin-left: .5em;
+  padding: 0.50em 1em;
+  background-color: rgb(12, 12, 12);
+  color: white;
+}

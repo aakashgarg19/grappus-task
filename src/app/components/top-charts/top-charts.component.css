@@ -1,0 +1,27 @@
+.imageContainer{
+  background-image: url("../../../assets/imgs/bar-graph.png");
+}
+.imageContainer.divHead {
+  display: flex;
+  align-items: flex-end;
+  color: black;
+  height: 8em;
+  width: 8em;
+  background-size: 100% 100%;
+}
+
+.buttonContainer {
+  display: flex;
+  padding: 1em;
+  flex-wrap: wrap;
+  width: 20em;
+}
+
+.body {
+  display: flex;
+}
+button {
+  border: 1px solid gray;
+  margin: .3em;
+}
+

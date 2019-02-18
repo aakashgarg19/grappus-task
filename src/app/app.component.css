@@ -1,0 +1,25 @@
+.rightContainer {
+  height: 80vh;
+    position: fixed;
+    right: 2em;
+    overflow: auto;
+    top: 5.7em;
+}
+.bodyContainer {
+  display: flex;
+  margin: 12vh 2em 0em;
+}
+.leftContainer .container {
+  width: 73%;
+  padding: 1em;
+  margin: 1em 0em;
+}
+.leftContainer {
+  margin-right: 2em;
+}
+.section {
+  display:flex;
+}
+.subContainer {
+  flex: 1;
+}

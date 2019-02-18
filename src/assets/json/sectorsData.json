@@ -1,0 +1,260 @@
+[
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Enterprise Infrastructure",
+    "categories": [
+      {
+        "description": "Enterprise Networking",
+        "iconClass": ""
+      },
+      {
+        "description": "Enterprise Servers & Systems",
+        "iconClass": "fas fa-arrow-down"
+      },
+      {
+        "description": "Enterprise Storage",
+        "iconClass": ""
+      },
+      {
+        "description": "Application Development & Integration",
+        "iconClass": ""
+      },
+      {
+        "description": "Cyber Security",
+        "iconClass": ""
+      },
+      {
+        "description": "Enterprise IT Operations Management",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "AI & Analytics",
+    "categories": [
+      {
+        "description": "Artificial Intelligence",
+        "iconClass": ""
+      },
+      {
+        "description": "Data Management & Analytics",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Industrial Tech",
+    "categories": [
+      {
+        "description": "3D Printing",
+        "iconClass": ""
+      },
+      {
+        "description": "Auto Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Drones",
+        "iconClass": ""
+      },
+      {
+        "description": "Manufacturing Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Robotics",
+        "iconClass": ""
+      },
+      {
+        "description": "Utilities Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Auto",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Industrial",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Utilities",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "FinTech",
+    "categories": [
+      {
+        "description": "Alternative Lending & Financing",
+        "iconClass": ""
+      },
+      {
+        "description": "Banking Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Capital Markets Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Financial Data & Analytics",
+        "iconClass": ""
+      },
+      {
+        "description": "Insurance Tech - Auto",
+        "iconClass": ""
+      },
+      {
+        "description": "Insurance Tech - Life & Health",
+        "iconClass": ""
+      },
+      {
+        "description": "Insurance Tech - Property & Casualty",
+        "iconClass": ""
+      },
+      {
+        "description": "Payment & Transfers",
+        "iconClass": ""
+      },
+      {
+        "description": "RegTech",
+        "iconClass": ""
+      },
+      {
+        "description": "WealthTech",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Enterprise Software",
+    "categories": [
+      {
+        "description": "AdTech",
+        "iconClass": ""
+      },
+      {
+        "description": "AR/VR",
+        "iconClass": ""
+      },
+      {
+        "description": "Blockchain",
+        "iconClass": ""
+      },
+      {
+        "description": "Digital Marketing",
+        "iconClass": ""
+      },
+      {
+        "description": "Enterprise Communications",
+        "iconClass": ""
+      },
+      {
+        "description": "Financial Management Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Human Capital Management Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Sales & CRM Software",
+        "iconClass": ""
+      },
+      {
+        "description": "Supply Chain Management",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Internet of Things",
+    "categories": [
+      {
+        "description": "IoT - Devices & Platforms",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Auto",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Commercial Buildings",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Consumer",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Industrial",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Smart City",
+        "iconClass": ""
+      },
+      {
+        "description": "IoT - Utilities",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Retail & Ecommerce Tech",
+    "categories": [
+      {
+        "description": "Retail Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Ecommerce Tech",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Travel & Hospitality",
+    "categories": [
+      {
+        "description": "Travel Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Transport Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Hospitality Tech",
+        "iconClass": ""
+      }
+    ]
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "title": "Other Verticals",
+    "categories": [
+      {
+        "description": "Education Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Legal Tech",
+        "iconClass": ""
+      },
+      {
+        "description": "Ag Tech",
+        "iconClass": ""
+      }
+    ]
+  }
+]

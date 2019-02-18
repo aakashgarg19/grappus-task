@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 0em 2em;
+}
+.header>div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.searchContainer {
+  width:28vw;
+  border-radius:5px;
+}
+img {
+  width:13vw;
+}
+.searchIcon {
+  padding: 0.5rem;
+}
+
+.searchBox {
+  border: 0;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  flex: 1;
+  background-color: black;
+  color:white;
+}
+
+.userProfile {
+  display:flex;
+  background-color:black;
+}
+.imageContainer{
+  border-radius: 50%;
+  background-image: url("../../../assets/imgs/profile.png");
+  color:white;
+  width: 3em;
+  background-size: 100% 100%;
+  height: 3em;
+  margin: 0 1em;
+}
+.userProfile i{
+  margin-left: 1em;
+}

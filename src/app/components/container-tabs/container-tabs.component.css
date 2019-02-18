@@ -1,0 +1,13 @@
+.selected {
+  border-bottom: 1px solid red;
+  color:white !important;
+}
+.tab {
+  padding: 0.5em 1.5em;
+  padding-left: 0;
+  color: rgb(137,137,137);
+}
+.tabContainer {
+  border-bottom: 1px solid gray;
+  display: flex;
+}

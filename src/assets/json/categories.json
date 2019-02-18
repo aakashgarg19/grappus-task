@@ -1,0 +1,32 @@
+[
+  {
+    "iconClass": "fa fa-chart-pie",
+    "heading": "Find Strategic Gaps",
+    "description": "Lorem ipsum dolor sit amet,",
+    "dropdownPlaceHolder": "Search a company"
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "heading": "Explore Market Maps",
+    "description": "Lorem ipsum dolor sit amet,",
+    "dropdownPlaceHolder": "Select a sector"
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "heading": "Identify potential acquirers",
+    "description": "Lorem ipsum dolor sit amet,",
+    "dropdownPlaceHolder": "Search a company"
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "heading": "Identify companies due for exit",
+    "description": "Lorem ipsum dolor sit amet,",
+    "dropdownPlaceHolder": "Select a sector"
+  },
+  {
+    "iconClass": "fa fa-chart-pie",
+    "heading": "Identify growth companies",
+    "description": "Lorem ipsum dolor sit amet,",
+    "dropdownPlaceHolder": "Select a sector"
+  }
+]

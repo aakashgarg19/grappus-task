@@ -1,0 +1,5 @@
+<div class="tabContainer">
+  <div (click)="updateSelectedTab(tab)" [ngClass]="{'selected': selectedTab === tab}"*ngFor="let tab of tabs" class="tab">
+    {{tab}}
+  </div>
+</div>

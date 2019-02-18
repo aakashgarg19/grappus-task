@@ -1,0 +1,23 @@
+<div class="sectorsDataContainer">
+  <div *ngFor="let sector of sectorData" class="sector">
+    <div class="sectorHead">
+      <div class="sectorIcon">
+        <i [class]="sector.iconClass"></i>
+      </div>
+      <div class="head">
+        {{ sector.title }}
+      </div>
+      <div class="industries">VIEW INDUSTRIES</div>
+    </div>
+    <div class="sectorBody">
+      <div
+        *ngFor="let item of sector.categories"
+        [ngClass]="{ iconSector: item.iconClass }"
+        class="sectorInfo"
+      >
+        {{ item.description }}
+        <i [class]="item.iconClass"></i>
+      </div>
+    </div>
+  </div>
+</div>

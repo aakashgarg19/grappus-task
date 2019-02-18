@@ -1,0 +1,32 @@
+[
+  {
+    "message": "What are the most critical strategic gaps for a company across its portfolio?",
+    "badgeText": "Strategic gaps",
+    "badgeStyle": "badge green"
+  },
+  {
+    "message": "Who can potentially acquire the company?",
+    "badgeText": "Potential acquirers",
+    "badgeStyle": "badge red"
+  },
+  {
+    "message": "List of public company comparables for a company?",
+    "badgeText": "Comparables",
+    "badgeStyle": "badge orange"
+  },
+  {
+    "message": "What are the strategic gaps for a company for a company based on benchmarking vs. closest competitors ?",
+    "badgeText": "Strategic gaps",
+    "badgeStyle": "badge green"
+  },
+  {
+    "message": "List of industry segments that a company operats in ?",
+    "badgeText": "Profile",
+    "badgeStyle": "badge purple"
+  },
+  {
+    "message": "What is the fast path to a company ?",
+    "badgeText": "Fast path",
+    "badgeStyle": "badge blue"
+  }
+]

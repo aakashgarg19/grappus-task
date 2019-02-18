@@ -1,0 +1,22 @@
+[
+  {
+    "badgeText": "Profile",
+    "badgeStyle": "purple badge"
+  },
+  {
+    "badgeText": "Comparables",
+    "badgeStyle": "orange badge"
+  },
+  {
+    "badgeText": "Strategic gaps",
+    "badgeStyle": "green badge"
+  },
+  {
+    "badgeText": "Potential Acquirers",
+    "badgeStyle": "red badge"
+  },
+  {
+    "badgeText": "Fast Path",
+    "badgeStyle": "blue badge"
+  }
+]

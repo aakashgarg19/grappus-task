@@ -1,0 +1,12 @@
+.badge {
+  background-color: rgb(20,21,23);
+  font-weight: normal;
+  padding: .5em 1em;
+}
+.badgeContainer {
+  flex-wrap: wrap;
+}
+.sectorInfo {
+  background-color: rgb(20,21,23);
+}
+

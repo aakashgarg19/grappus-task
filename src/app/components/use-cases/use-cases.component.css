@@ -1,0 +1,20 @@
+.imageContainer{
+  background-image: url("../../../assets/imgs/profit.jpg");
+}
+.imageContainer.divHead {
+  display: flex;
+  align-items: flex-end;
+  color: black;
+  height: 8em;
+  width: 8em;
+  background-size: 100% 100%;
+}
+.buttonContainer {
+  display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 1em;
+}
+.body {
+  display: flex;
+}

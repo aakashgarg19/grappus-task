@@ -1,0 +1,18 @@
+<div class="badgeContainer">
+  <div (click)="filterBadgeData(badge.badgeText)" *ngFor="let badge of badgeMaster" [classList]="badge.badgeStyle">
+    {{badge.badgeText}}
+  </div>
+</div>
+<div class="badgeDataContainer">
+  <div *ngFor="let badgeInfo of badgeDataCopy" class="badgeInfo">
+    {{badgeInfo.message}}
+    <p class="badgeContainer">
+      <span [classList]="badgeInfo.badgeStyle">
+        {{badgeInfo.badgeText}}
+      </span>
+    </p>
+  </div>
+</div>
+<div class="caraousel">
+    <div (click)="changePage(page)" [ngClass]="{'selected': selectedPage == page}" *ngFor="let page of pages" class="page"></div>
+</div>

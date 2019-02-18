@@ -1,0 +1,17 @@
+<div *ngIf="category" class="container">
+  <div class="headContainer">
+    <div class="iconContainer">
+      <i [class]="category?.iconClass"></i>
+    </div>
+    <div class="heading">
+      <div class="divHead">{{category.heading}}</div>
+      <div class="subHead">{{category.description}}</div>
+    </div>
+  </div>
+  <div class="body">
+    <input type="text" [placeholder]="category.dropdownPlaceHolder">
+    <span class="whiteIcon">
+      <i class="fas fa-chevron-right"></i>
+    </span>
+  </div>
+</div>
